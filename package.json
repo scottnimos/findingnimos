@@ -7,6 +7,14 @@
     "build": "next build",
     "start": "next start"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottnimos/findingnimos.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottnimos/findingnimos.git"
+  },
   "dependencies": {
     "dotenv": "^8.2.0",
     "framer-motion": "^1.10.2",
