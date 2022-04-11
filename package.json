@@ -16,7 +16,7 @@
     "url": "https://github.com/scottnimos/findingnimos.git"
   },
   "dependencies": {
-    "next": "^9.3.3",
+    "next": "^12.1.0",
     "prismic-javascript": "^2.7.0",
     "prismic-reactjs": "^1.3.0",
     "react": "^16.13.0",
